@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = gauthier.fraiture@gmail.com
-	name = gauthier fraiture
+	email = accounts@prospect.io
+	name = prospectio
