@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = accounts@prospect.io
-	name = prospectio
+	email = nico@prospect.io
+	name = Nico
